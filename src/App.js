@@ -108,7 +108,7 @@ function App() {
                 onScan={handleScanWebCamFile}
               />
               <h3>
-                The Scanned QR code is:{" "}
+                The Scanned QR code:{" "}
                 <a href={scanResultWebCamFile}>{scanResultWebCamFile}</a>
               </h3>
             </Grid>
