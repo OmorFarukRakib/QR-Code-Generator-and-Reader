@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Generator-and-Reader/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/QR-Code-Generator-and-Reader/static/js/main.09c07e28.chunk.js",
+    "main.js.map": "/QR-Code-Generator-and-Reader/static/js/main.09c07e28.chunk.js.map",
+    "runtime-main.js": "/QR-Code-Generator-and-Reader/static/js/runtime-main.30fcd839.js",
+    "runtime-main.js.map": "/QR-Code-Generator-and-Reader/static/js/runtime-main.30fcd839.js.map",
+    "static/js/2.fe8b2471.chunk.js": "/QR-Code-Generator-and-Reader/static/js/2.fe8b2471.chunk.js",
+    "static/js/2.fe8b2471.chunk.js.map": "/QR-Code-Generator-and-Reader/static/js/2.fe8b2471.chunk.js.map",
+    "static/js/3.b834d5b1.chunk.js": "/QR-Code-Generator-and-Reader/static/js/3.b834d5b1.chunk.js",
+    "static/js/3.b834d5b1.chunk.js.map": "/QR-Code-Generator-and-Reader/static/js/3.b834d5b1.chunk.js.map",
+    "index.html": "/QR-Code-Generator-and-Reader/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/QR-Code-Generator-and-Reader/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fe8b2471.chunk.js.LICENSE.txt": "/QR-Code-Generator-and-Reader/static/js/2.fe8b2471.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30fcd839.js",
+    "static/js/2.fe8b2471.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.09c07e28.chunk.js"
+  ]
+}
